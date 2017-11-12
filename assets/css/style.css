@@ -22,7 +22,8 @@ margin:0 auto;}
 
 .aboutme {text-align: left;
 font-weight: bold;
-font-size: 30px;}
+font-size: 30px;
+color: green;}
 
 
 .mypicture{float: left;
@@ -32,10 +33,10 @@ width: 200px;}
 .not-important {width:270px;
 float:right;
 position: absolute;
-padding: 100px 100px;
+padding: 75px 75px;
 background-color: #f8f8ff;
 right: 450px;
-bottom: 450px;
+bottom: 600px;
 }
 
 h1 {font-family: Georgia, Times, Times New Roman, Serif;}
@@ -45,12 +46,18 @@ background-image: url("../images/background.png");}
 
 
 
-.image {float: left;
-width: 40px;}
+.image 
+
+{float: left;
+width: 80px;
+height: 70px;
+font-size: 10em;}
 
 
 .connection {color:green;
-font-weight: bold;}
+font-weight: bold;
+font-size: 30px;
+text-align: center;}
 
 footer {background-color: #666;
 width: 100%;
