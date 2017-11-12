@@ -1,7 +1,9 @@
 body {width:960px;}
 
 header {height: 80px;
-background-color:ffffff; }
+background-color:ffffff;
+width: 960px;
+padding: 20px; }
 
 .name {
 font-weight: bold;
@@ -9,8 +11,8 @@ font-size: 35px;
 margin-top: 0;}
 
 .important {float: right;
-padding: 10px;
-font-size: 16px;}
+font-size: 16px;
+padding: 20px;}
 
 
 .main-section {width: 650px;
@@ -27,8 +29,8 @@ color: green;}
 
 
 .mypicture{float: left;
-padding: 20px;
-width: 200px;}
+padding:0 10px 0 0;
+width: 140px;}
 
 .not-important {width:270px;
 float:right;
@@ -50,8 +52,7 @@ background-image: url("../images/background.png");}
 
 {float: left;
 width: 80px;
-height: 70px;
-font-size: 10em;}
+height: 60px;}
 
 
 .connection {color:green;
