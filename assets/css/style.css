@@ -1,38 +1,41 @@
+body {width:960px;}
+
 header {height: 80px;
 background-color:ffffff; }
 
 .name {
 font-weight: bold;
-font-size: 35px;}
+font-size: 35px;
+margin-top: 0;}
 
 .important {float: right;
 padding: 10px;
-display: block;
-margin: 0 auto;
 font-size: 16px;}
 
 
-.main-section {width: 500px;
+.main-section {width: 650px;
 	position: relative;
 height: 200px
 margin, 0 auto;
-font-size: 20px;}
+font-size: 20px;
+margin:0 auto;}
 
-.aboutme {text-align: center;}
+.aboutme {text-align: left;
+font-weight: bold;
+font-size: 30px;}
 
 
 .mypicture{float: left;
 padding: 20px;
 width: 200px;}
 
-.not-important {width:10px;
+.not-important {width:270px;
 float:right;
 position: absolute;
-right: -400px;
-top:auto;
-padding: 20px 25px;
+padding: 100px 100px;
 background-color: #f8f8ff;
-bottom: -50px;
+right: 450px;
+bottom: 450px;
 }
 
 h1 {font-family: Georgia, Times, Times New Roman, Serif;}
