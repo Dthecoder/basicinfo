@@ -1,6 +1,28 @@
 header {height: 80px;
 background-color:ffffff; }
 
+.name {
+font-weight: bold;
+font-size: 35px;}
+
+.important {float: right;
+padding: 10px;
+display: block;
+margin: 0 auto;
+font-size: 16px;}
+
+
+.main-section {width: 600px;
+	position: relative;
+height: 200px
+margin, 0 auto;
+font-size: 20px;}
+
+
+.mypicture{float: left;
+padding: 20px;
+width: 200px;}
+
 .not-important {width:10px;
 float:right;
 position: absolute;
@@ -16,32 +38,13 @@ h1 {font-family: Georgia, Times, Times New Roman, Serif;}
 body {
 background-image: url("../images/background.png");}
 
-.main-section {width: 1240px;
-	position: relative;
-height: 200px
-margin, o,auto;
-font-size: 20px;}
 
-
-.mypicture{float: left;
-
-display: block;}
 
 .image {float: left;
 width: 40px;}
 
 
 .connection {color:green;
-font-weight: bold;}
-
-
-.important {float: right;
-padding: 10px;
-display: block;
-text-decoration: none;
-margin: 0 auto;}
-
-.name {
 font-weight: bold;}
 
 footer {background-color: #666;
