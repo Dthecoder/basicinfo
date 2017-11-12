@@ -8,7 +8,8 @@ padding: 20px; }
 .name {
 font-weight: bold;
 font-size:35px;
-margin-top: 0;}
+padding: 10px;
+color:blue; }
 
 .important {float: right;
 font-size: 16px;
@@ -20,7 +21,11 @@ padding: 20px;}
 height: 200px
 margin, 0 auto;
 font-size: 20px;
-margin:0 auto;}
+margin:0 auto;
+border-style: solid;
+border-bottom: blue}
+
+
 
 .aboutme {text-align: left;
 font-weight: bold;
