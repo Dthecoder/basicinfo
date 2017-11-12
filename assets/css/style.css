@@ -12,11 +12,13 @@ margin: 0 auto;
 font-size: 16px;}
 
 
-.main-section {width: 600px;
+.main-section {width: 500px;
 	position: relative;
 height: 200px
 margin, 0 auto;
 font-size: 20px;}
+
+.aboutme {text-align: center;}
 
 
 .mypicture{float: left;
